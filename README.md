@@ -82,14 +82,11 @@ CC_EMAILS = ["cc@email.com"]
 Use a Gmail App Password, not your normal email password.
 
 ```
-
 3️⃣ Run Manually (Test)
 
 Before scheduling, test the script:
 
-
-
-
+```bash
 
 python3 daily_vps_health_report.py
 
