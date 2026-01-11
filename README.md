@@ -48,7 +48,7 @@ Each report includes:
 Below is an example of the automatically generated daily health report email.
 
 ### 📌 Full Email Preview
-![Daily VPS Health Email](asssets/email_overeview.png)
+![Daily VPS Health Email](asssets/vps_overview.PNG)
 
 ### 📊 CPU Usage Chart
 ![CPU Usage Chart](asssets/cpu_usage.png)
