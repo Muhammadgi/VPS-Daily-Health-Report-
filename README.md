@@ -91,3 +91,23 @@ Before scheduling, test the script:
 python3 daily_vps_health_report.py
 
 ```
+
+4️⃣ Schedule Daily Execution (CRON)
+
+CRON allows Linux to run the script automatically.
+
+Open the crontab editor:
+
+```bash
+
+crontab -e
+
+```
+
+Example: run the report every day at 9:00 AM:
+
+```bash
+
+0 9 * * * /usr/bin/python3 /home/ubuntu/daily_vps_health_report.py >> /home/ubuntu/vps_report.log 2>&1
+
+```
