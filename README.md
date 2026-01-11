@@ -58,11 +58,30 @@ Each report includes:
 pip install psutil matplotlib
 ```
 
-⚙️ ### Setup & Usage
+⚙️ **Setup & Usage**
 
 1️⃣ Clone the Repository
 ```bash
 git clone
 cd vps-daily-health-report
+```
+
+2️⃣ Configure Email Settings
+
+Edit the email configuration inside daily_vps_health_report.py:
+
+```bash
+EMAIL_ADDRESS = "your-email@gmail.com"
+EMAIL_PASSWORD = "your-gmail-app-password"
+
+FROM_ALIAS = "Your Company Support <support@yourdomain.com>"
+TO_EMAIL = "recipient@email.com"
+CC_EMAILS = ["cc@email.com"]
+
+```
+
+
+
+
 
 ```
