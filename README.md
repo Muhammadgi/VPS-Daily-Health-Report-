@@ -58,7 +58,7 @@ Each report includes:
 pip install psutil matplotlib
 ```
 
-⚙️ **Setup & Usage**
+⚙️ ### Setup & Usage
 
 1️⃣ Clone the Repository
 ```bash
