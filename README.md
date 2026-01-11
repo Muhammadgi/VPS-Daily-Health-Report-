@@ -134,3 +134,22 @@ vps-daily-health-report/
 ```
 
 Chart images are generated automatically during execution.
+
+
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create a feature branch
+
+Commit your changes
+
+Submit a pull request
+
+📜 License
+
+MIT License
+Free to use, modify, and distribute.
