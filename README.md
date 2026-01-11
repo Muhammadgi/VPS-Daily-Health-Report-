@@ -43,6 +43,18 @@ Each report includes:
 - Professional footer and support signature
 
 > No JavaScript is used in emails to ensure compatibility with Gmail, Outlook, and Apple Mail.
+## 📨 Email Preview
+
+Below is an example of the automatically generated daily health report email.
+
+### 📌 Full Email Preview
+![Daily VPS Health Email](assets/email_overeview.png)
+
+### 📊 CPU Usage Chart
+![CPU Usage Chart](assets/cpu_usage.png)
+
+### 🧠 Memory Usage Chart
+![Memory Usage Chart](assets/memory_usage.png)
 
 ---
 
