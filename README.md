@@ -56,3 +56,10 @@ Each report includes:
 
 ```bash
 pip install psutil matplotlib
+
+
+⚙️ Setup & Usage
+1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/vps-daily-health-report.git
+cd vps-daily-health-report
