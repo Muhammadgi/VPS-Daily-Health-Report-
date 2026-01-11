@@ -59,10 +59,9 @@ pip install psutil matplotlib
 
 Some basic Git commands are:
 
-⚙️ **Setup & Usage**
-1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/vps-daily-health-report.git
-cd vps-daily-health-report
+git status
+git add
+git commit
 ```
 
