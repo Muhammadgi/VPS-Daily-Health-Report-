@@ -155,3 +155,6 @@ Submit a pull request
 MIT License
 Free to use, modify, and distribute.
 ```
+⭐ **Support**
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
