@@ -56,10 +56,3 @@ Each report includes:
 
 ```bash
 pip install psutil matplotlib
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
