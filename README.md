@@ -83,9 +83,14 @@ Use a Gmail App Password, not your normal email password.
 
 ```
 
+3️⃣ Run Manually (Test)
+
+Before scheduling, test the script:
 
 
-⚠️ Important:
-Use a Gmail App Password, not your normal email password.
+
+
+
+python3 daily_vps_health_report.py
 
 ```
