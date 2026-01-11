@@ -111,3 +111,26 @@ Example: run the report every day at 9:00 AM:
 0 9 * * * /usr/bin/python3 /home/ubuntu/daily_vps_health_report.py >> /home/ubuntu/vps_report.log 2>&1
 
 ```
+
+
+✔ Uses full Python path
+✔ Logs output for debugging
+✔ Survives server reboots
+
+**Verify CRON jobs:**
+
+```bash
+crontab -l
+```
+
+📂 Project Structure
+```bash
+vps-daily-health-report/
+├── daily_vps_health_report.py
+├── README.md
+├── requirements.txt
+├── cpu_usage.png        # auto-generated
+├── memory_usage.png     # auto-generated
+```
+
+Chart images are generated automatically during execution.
