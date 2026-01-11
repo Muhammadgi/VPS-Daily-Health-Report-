@@ -137,8 +137,8 @@ Chart images are generated automatically during execution.
 
 
 
-🤝 Contributing
-
+🤝 **Contributing**
+```bash
 Contributions are welcome!
 
 Fork the repository
@@ -148,8 +148,10 @@ Create a feature branch
 Commit your changes
 
 Submit a pull request
+```
 
-📜 License
-
+📜 **License**
+```bash
 MIT License
 Free to use, modify, and distribute.
+```
