@@ -78,10 +78,14 @@ FROM_ALIAS = "Your Company Support <support@yourdomain.com>"
 TO_EMAIL = "recipient@email.com"
 CC_EMAILS = ["cc@email.com"]
 
+⚠️ Important:
+Use a Gmail App Password, not your normal email password.
+
 ```
 
 
 
-
+⚠️ Important:
+Use a Gmail App Password, not your normal email password.
 
 ```
