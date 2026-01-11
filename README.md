@@ -58,6 +58,10 @@ Each report includes:
 pip install psutil matplotlib
 ```
 
+⚙️ **Setup & Usage**
+1️⃣ Clone the Repository
 ```bash
-pip install psutil matplotlib
+git clone
+cd vps-daily-health-report
+
 ```
